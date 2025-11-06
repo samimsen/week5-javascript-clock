@@ -8,6 +8,7 @@ Saat, her saniye otomatik olarak güncellenir.
 - Sistem saatini görüntüler
 - Haftanın gününü Türkçe olarak gösterir
 - Otomatik olarak her saniye güncellenir
+- Saate göre arka plan rengi ve yazı rengi değişir
 
 ## Kullanılan Teknolojiler
 
