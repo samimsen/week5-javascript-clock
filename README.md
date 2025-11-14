@@ -15,3 +15,5 @@ Saat, her saniye otomatik olarak güncellenir.
 - HTML
 - CSS (Opsiyonel stil için)
 - JavaScript (`Date`, `setInterval`)
+
+# [Canlı Site](https://samimsen.github.io/week5-javascript-clock/)
